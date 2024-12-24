@@ -60,4 +60,4 @@ The application is designed with a modular architecture, ensuring scalability an
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/University_Management_System.git
+   git clone https://github.com/a7med3yad/University_Management_System.git
