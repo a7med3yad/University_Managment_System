@@ -52,13 +52,7 @@ The application is designed with a modular architecture, ensuring scalability an
 ## Screenshots
 
 ### **Login Page**
-![Login Page](https://via.placeholder.com/800x400?text=Login+Page)
-
-### **Dashboard**
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard)
-
-### **Course Management**
-![Course Management](https://via.placeholder.com/800x400?text=Course+Management)
+![Login Page](file:///C:/Users/ahmed/Downloads/Screenshot+2024-12-25+003032.png.html)
 
 ---
 
