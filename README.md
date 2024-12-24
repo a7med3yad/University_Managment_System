@@ -49,13 +49,6 @@ The application is designed with a modular architecture, ensuring scalability an
 
 ---
 
-## Screenshots
-
-### **Login Page**
-![Login Page](file:///C:/Users/ahmed/Downloads/Screenshot+2024-12-25+003032.png.html)
-
----
-
 ## Future Enhancements
 1. Web-based interface using frameworks like Spring Boot or Angular.
 2. Mobile application for Android and iOS platforms.
